@@ -9,6 +9,8 @@ public class TestClass {
 				System.out.println("Hello Guardian CA");
 
 			}
-
+public void remoteMethod(){
+	//this is from remote Repo
 		}
 
+}
